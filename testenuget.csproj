@@ -4,7 +4,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <PackageId>testenuget</PackageId>
+    <PackageId>marcelo.dev.teste.agftestenuget</PackageId>
     <Version>1.0.0</Version>
     <Authors>Marcelo</Authors>
     <Company>Mendes Corp</Company>
