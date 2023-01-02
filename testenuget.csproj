@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>samplenugetpackage</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Marcelo</Authors>
+    <Company>Mendes Corp</Company>
+    <RepositoryUrl>https://github.com/marcelomendesrocha/testenuget</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
